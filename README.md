@@ -1,8 +1,8 @@
 
 ## Ex.4 Deployment and configuration of a Private Cloud  in AWS
 ```
-NAME: MOHAMMED FAIZAL J
-REG NO: 212222100027
+NAME: SANTHOSH L
+REG NO: 212222100046
 ```
 ## Aim:
 To set up of a Private Cloud  in AWS.
